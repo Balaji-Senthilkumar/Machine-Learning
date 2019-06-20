@@ -1,4 +1,4 @@
-""" Preediction of Cancer death Rate using Linear Regression and 
+""" Prediction of Cancer death Rate using Linear Regression and 
 used advanced boosting techniques like Gradient Boosting"""
 =======================================================================================================
 
